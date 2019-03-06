@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551787071 source:c:\users\bushra javed\desktop\coding practice\practice1\tictactoe2\main.cpp
+	<iostream>
+	"stdlib.h"
+
